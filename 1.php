@@ -1,3 +1,6 @@
+<?php
+    echo "家里测试冲突";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
