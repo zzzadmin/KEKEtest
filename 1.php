@@ -1,3 +1,7 @@
+<?php
+echo "测试123冲突";
+echo "家里测试冲突";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
